@@ -8,7 +8,7 @@ export const site = {
   fullName: "Aqsa Sharif",
 
   // TODO: replace with your real email address
-  email: "aqsa@example.com",
+  email: "aqsasharif051@gmail.com",
   github: "https://github.com/aqsasharif051-dev",
 
   linkedin: "https://www.linkedin.com/in/aqsa-sharif-b78217435",
