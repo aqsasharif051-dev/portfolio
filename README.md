@@ -2,7 +2,10 @@
 
 A fast, animated portfolio built with **React + Vite**. Data analyst first, frontend developer as the edge.
 
-**Live site:** `https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/`
+**Live site:** https://aqsasharif051-dev.github.io/portfolio/
+
+
+
 **GitHub:** [aqsasharif051-dev](https://github.com/aqsasharif051-dev)  
 **LinkedIn:** [aqsa-sharif](https://www.linkedin.com/in/aqsa-sharif-b78217435)
 
