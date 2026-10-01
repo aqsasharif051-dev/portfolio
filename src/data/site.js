@@ -33,8 +33,8 @@ export const stats = [
 
 export const education = [
   {
-    degree: "BS (Computer Science)",
-    school: "Govt Islamia College for Women, Cooper Road, Lahore",
+    degree: "BSCS (Computer Science)",
+    school:  "Lahore College for Women University",
     period: "2023 — present",
   },
   {
